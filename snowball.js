@@ -1,11 +1,1 @@
-$(document).ready(function(){
-	$('body, .main, .content,#content, #container').css("background", "#F4F3EB");
-	$('*').css("color", "#3D3936");
-	$('.article').css("font-size", "13px");
-	$('.article').css("line-height", "22px");
-	$('#Banner img').css("background-color", "#555E66");
-	$('a:hover').css("color","#F4F3EB")
-	
-});
-
- 
+javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://raw.github.com/saltcod/Fireball/master/snowball.js";document.body.appendChild(document.createElement("script")).src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"})()
