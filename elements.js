@@ -4,7 +4,7 @@ $(document).ready(function(){
 	$('.article').css("font-size", "13px");
 	$('.article').css("line-height", "22px");
 	$('#Banner img').css("background-color", "#555E66");
-	$('a:hover').css("color","#F4F3EB")
+	$('a:hover').css("color","#F4F3EB");
 	
 });
 
