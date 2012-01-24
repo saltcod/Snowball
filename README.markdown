@@ -13,3 +13,6 @@ Sort of, but not exactly. Readability only works well on articles. It doesn't wo
 
 To try it out, just drag <a href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;">Snowball</a> up to your bookmarks bar.
  
+
+<a class="bookmarklet awesome large red" href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/davatron5000/deCSS3/master/deCSS3.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();">
+	deCSS3</a>
