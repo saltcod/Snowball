@@ -14,5 +14,5 @@ Sort of, but not exactly. Readability only works well on articles. It doesn't wo
 Until I can figure out how to include a file to actually drag up to the bookmarks bar, just make a new bookmark, and paste this into the URL field: 
 
 
-javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;"
+<code>javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;"</code>
   
