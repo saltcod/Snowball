@@ -1,0 +1,93 @@
+body {
+	background: #eee;
+	color: #555;
+	font:14px/28px Bitter;
+	
+}
+
+#main {
+	width: 880px;
+	margin: 0 auto;
+}
+h1 {
+	font-family: Quicksand;
+}
+
+h1.site-title {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 300;
+	font-size: 50px;
+	border-bottom: 1px solid #AAA;
+	padding-bottom: 25px;
+}
+h1.site-title span{
+	font-size: 14px;
+	display: block;
+	margin-top: 15px;
+	font-weight: 700; 
+	color: hsl(17, 80%, 50%);
+}
+
+
+h2 {
+	padding-bottom: 5px;
+	color: #E65319;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+a {
+	color: #555;
+	border-bottom: 1px dotted;
+	text-decoration: none;
+}
+
+img {
+	width: 375px;
+	border: 5px solid lightblue;
+}
+
+img.first {
+	margin-right: 110px;
+}
+
+section {
+	width: 890px; 
+	margin: 0 auto; 
+	padding: 50px 0;
+	background: url(hr.png) no-repeat center bottom;
+}
+
+section.images{
+	position: relative;
+ }
+
+.drag-me{
+	background: #E65319;
+	color: white;
+	border-radius: 5px;
+	padding: 12px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	border: none;
+}
+ 
+span.arrow{
+	position: absolute;
+	top: 180px;
+	font-size: 25px;
+	left: 430px;
+	color: #888;
+}
+
+
+
+.group:after {
+        visibility: hidden;
+        display: block;
+        content: "";
+        clear: both;
+        height: 0;
+        }
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
