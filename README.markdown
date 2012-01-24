@@ -9,7 +9,7 @@ The list of selectors is incomplete, but I'll be adding to them as I go. If you 
 Sort of, but not exactly. Readability only works well on articles. It doesn't work in forums, homepages, or anywhere else where content isn't neatly stored in article form.  Plus, while I love Readability, I don't always want the website completely reformatted—I just want to make it more readable. 
 
 
-<a class="bookmarklet awesome large red" href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/davatron5000/deCSS3/master/deCSS3.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();">
-	deCSS3</a>
-###Alright already. How do I use this thing? 
+### Alright already. How do I use this thing? 
+
+To try it out, just drag<a class="bookmarklet awesome large red" href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;">Snowball</a>up to your bookmarks bar.
  
