@@ -10,7 +10,6 @@ Sort of, but not exactly. Readability only works well on articles. It doesn't wo
 
 
 <a class="bookmarklet awesome large red" href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/davatron5000/deCSS3/master/deCSS3.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();">
-
+	deCSS3</a>
 ###Alright already. How do I use this thing? 
-
-Isn't this just like Readability though? [Snowball](javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://raw.github.com/saltcod/Fireball/master/snowball.js";document.body.appendChild(document.createElement("script")).src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"})())
+ 
