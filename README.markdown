@@ -11,5 +11,5 @@ Sort of, but not exactly. Readability only works well on articles. It doesn't wo
 
 ### Alright already. How do I use this thing? 
 
-To try it out, just drag<a class="bookmarklet awesome large red" href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;">Snowball</a>up to your bookmarks bar.
+To try it out, just drag <a href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/saltcod/Fireball/master/snowball.js;">Snowball</a> up to your bookmarks bar.
  
