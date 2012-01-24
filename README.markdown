@@ -8,4 +8,7 @@ The list of selectors is incomplete, but I'll be adding to them as I go. If you 
 
 Sort of, but not exactly. Readability only works well on articles. It doesn't work in forums, homepages, or anywhere else where content isn't neatly stored in article form.  Plus, while I love Readability, I don't always want the website completely reformatted—I just want to make it more readable. 
 
- 
+
+##Alright already. How do I use this thing? 
+
+Isn't this just like Readability though? [Snowball](javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://raw.github.com/saltcod/Fireball/master/snowball.js";document.body.appendChild(document.createElement("script")).src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"})())
