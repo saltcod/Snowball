@@ -3,5 +3,8 @@ $(document).ready(function(){
 	$('*').css("color", "#3D3936");
 	$('.article').css("font-size", "13px");
 	$('.article').css("line-height", "22px");
+	$('#Banner img:hover').css("background-color", "#555E66");
 	
 });
+
+ 
