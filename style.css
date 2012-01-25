@@ -85,6 +85,9 @@ section.images{
 	position: relative;
  }
 
+section.instructions{
+ }
+
 .drag-me{
 	background: #E65319;
 	color: white;
