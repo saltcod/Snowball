@@ -37,15 +37,37 @@ h2 {
 	font-weight: 300;
 }
 
+h3 {
+	float: left;
+	width: 125px;
+}
+
+h2 a{
+	color: #E65319;
+}
+
 a {
 	color: #555;
 	border-bottom: 1px dotted;
 	text-decoration: none;
 }
 
+.img-container{
+	float: left;
+	width: 390px;
+	margin-right: 110px;
+}
+
+.img-container-second{
+	margin-right: 0px;
+}
+
+
+
 img {
 	width: 375px;
 	border: 5px solid lightblue;
+	float: left;
 }
 
 img.first {
@@ -70,11 +92,16 @@ section.images{
 	padding: 12px;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.5);
 	border: none;
+	margin-left: 75px;
+}
+
+.drag-me:hover{
+	opacity:.9;
 }
  
 span.arrow{
 	position: absolute;
-	top: 180px;
+	top: 280px;
 	font-size: 25px;
 	left: 430px;
 	color: #888;
