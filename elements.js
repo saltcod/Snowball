@@ -5,7 +5,7 @@ $(document).ready(function(){
 	$('.article').css("line-height", "22px");
 	$('#Banner img').css("background-color", "#555E66");
 	$('a:hover').css("color","#F4F3EB");
-	
+	$('p').css("text-shadow", "none");
 });
 
  
