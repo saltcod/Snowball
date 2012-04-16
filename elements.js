@@ -9,7 +9,7 @@ $(document).ready(function(){
 	$('#Banner img').css("background-color", "#555E66");
 	$('a:hover').css("color","#F4F3EB");
 	$('*').css("text-shadow", "none");
-	::selection 	 	{background: '#F4F3EB'; color: '#3D3936' }
+	::selection 	 	{background: '#F4F3EB', color: '#3D3936' }
 
 });
 
