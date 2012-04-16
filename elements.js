@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$('body, .main, .content,#content, #container').css({
 			background: '#F4F3EB',
-			background-color: '#F4F3EB' 
+			backgroundColor: '#F4F3EB' 
 			});
 	$('*').css("color", "#3D3936");
 	$('.article').css("font-size", "13px");
