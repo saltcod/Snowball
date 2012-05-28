@@ -9,6 +9,10 @@ $(document).ready(function(){
 	$('#Banner img').css("background-color", "#555E66");
 	$('a:hover').css("color","#F4F3EB");
 	$('*').css("text-shadow", "none");
-
+	$('pre').css({ 
+			'background': '#EBE9DC', 
+			'border': 'none',
+			'box-shadow': 'none'
+			});
 });
 
