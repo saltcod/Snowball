@@ -5,11 +5,11 @@ $(document).ready(function(){
 			});
 	$('*').css({
 			'color': '#3D3936',
-			'text-shadow', 'none'
+			'text-shadow': 'none'
 			});
 	$('.article').css({
-			'font-size', '13px',
-			'line'height', '22px'
+			'font-size': '13px',
+			'line'height': '22px'
 			});
 	$('#Banner img').css("background-color", "#555E66");
 	$('a:hover').css("color","#F4F3EB");
