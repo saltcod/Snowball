@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('body, .main, .content,#content, #container').css({
+	$('body, .main, .content,#content, #container,.singular #primary').css({
 			background: '#F4F3EB',
 			backgroundColor: '#F4F3EB' 
 			});
