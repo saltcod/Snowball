@@ -18,5 +18,13 @@ $(document).ready(function(){
 			'border': 'none',
 			'box-shadow': 'none'
 			});
+
+	$('blockquote').css({ 
+			'background': 'none', 
+			'color' : '#444',
+			'border-left': '1px solid',
+			'box-shadow': 'none'
+			});
+ 
 });
 
