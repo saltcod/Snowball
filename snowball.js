@@ -1,1 +1,1 @@
-javascript:(function(){document.body.appendChild(document.createElement("script")).src="http://rawgithub.com/saltcod/Snowball/master/elements.js";document.body.appendChild(document.createElement("script")).src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"})()
+javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://cdn.rawgit.com/saltcod/Snowball/master/elements.js";document.body.appendChild(document.createElement("script")).src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"})()
