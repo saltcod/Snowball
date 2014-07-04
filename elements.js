@@ -1,14 +1,14 @@
 $(document).ready(function(){
 	
 	$('html, body, .main, .content,#content, #container,.singular #primary, #branding, #hgroup').css({
-		background: '#F4F3EB',
-		backgroundColor: '#F4F3EB' 
+		'background': '#F4F3EB',
+		'background-color': '#F4F3EB' 
 	});
 	$('*').css({
 		'color': '#3D3936',
 		'text-shadow': 'none',
-		background: '#F4F3EB',
-		backgroundColor: '#F4F3EB'
+		'background': '#F4F3EB',
+		'background-color': '#F4F3EB'
 	});
 
 	$('.article').css({
